@@ -1,0 +1,25 @@
+.links{
+  margin: 30px;
+}
+a{
+  text-decoration: none;
+  background: #a7b9c1;
+  border: none;
+  border-radius: 5px;
+  color: #fff;
+  padding: 10px;
+  margin: 10px
+}
+
+.content{
+  margin: 40px;
+  padding: 10px 20px;
+  border-radius: 5px;
+}
+
+.backcolor-1{
+  background-color: #bce0ff;
+}
+.backcolor-2{
+  background-color: #f5d9e2
+}
